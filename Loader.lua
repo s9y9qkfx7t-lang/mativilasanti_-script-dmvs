@@ -4,7 +4,7 @@ local KeySystem = false
 
 local function LoadScript(path, name)
   local done = 0
-  local repo = "https://raw.githubusercontent.com/TUUSUARIO/mativilasanti_-script-dmvs/main/"  -- CAMBIA TUUSUARIO por tu username real de GitHub!!
+  local repo = "https://raw.githubusercontent.com/s9y9qkfx7t-lang/mativilasanti_-script-dmvs/main/"  -- CAMBIA TUUSUARIO por tu username real de GitHub!!
   local URLs = {
     lib = "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua",
     init = repo .. "extra/Test.lua",
